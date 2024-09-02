@@ -239,22 +239,22 @@ This data can be used to understand purchase patterns, delivery behavior, and cu
 ![RFM Summary](https://github.com/user-attachments/assets/29e6d86b-5fb1-41dc-969f-f8680dc9f2cb)
 
 ### Customer Segmentation
-### 1. Prime Customers
+### 1. Pelanggan Utama
 - **Purchase Frequency**: Very high
 - **Monetary Value**: Very high
 - **Characteristics**: Most valuable and loyal customers
 
-### 2. Potential Customers
+### 2. Pelanggan Potensial
 - **Frequency and Monetary Value**: Medium
 - **Recency**: Pretty good
 - **Characteristics**: Potential to be upgraded to prime customers
 
-### 3. New Customers
+### 3. Pelanggan Baru
 - **Recency**: Low (recent transactions)
 - **Frequency and Monetary Value**: Still low
 - **Characteristics**: Need strategies to increase loyalty
 
-### 4. Passive Customers
+### 4. Pelanggan Pasif
 - **Recency**: High (long time since last transaction)
 - **Frequency and Monetary Value**: Low
 - **Characteristics**: Need reactivation strategies
