@@ -319,6 +319,12 @@ Data ini dapat digunakan untuk memahami pola pembelian, perilaku pengiriman, dan
 - Pertimbangkan kampanye pemasaran khusus untuk meningkatkan penjualan di setiap pekan.
 - Eksplorasi peluang ekspansi ke wilayah dengan konsentrasi pelanggan yang lebih rendah.
 
+## Yang bisa di kembangkan untuk nextnya:
+- Implementasikan model time series yang lebih deep untuk peramalan yang lebih akurat
+- Kembangkan model prediksi churn pelanggan agar lebih detail keadaan pelanggan
+- Lakukan analisis sentimen pada komentar ulasan dengan tujuan bagaimana respon cust terhadap kepuasan dan sebagainya
+- Buat sistem rekomendasi berdasarkan riwayat pembelian
+
 ## Cara Menggunakan Repositori Ini
 1. Clone repositori
 2. Instal dependensi yang diperlukan: `pip install -r requirements.txt`
