@@ -202,6 +202,7 @@ Data ini dapat digunakan untuk memahami pola pembelian, perilaku pengiriman, dan
 - **Daily** dan **Monhtly**
 
 ![Order Volume Forecast 1 Year (Daily)](https://github.com/user-attachments/assets/ab145fb2-1bca-4426-af0e-62398b156cdc)
+
 ![Order Volume Forecast 1 Year (Monthly)](https://github.com/user-attachments/assets/7fdb2056-c1e2-4e5b-b868-f8c8d0c75a6a)
 
 #### Temuan Utama:
@@ -226,10 +227,15 @@ Data ini dapat digunakan untuk memahami pola pembelian, perilaku pengiriman, dan
 
 ### Analisis RFM
 - **Segmentasi**: 4 cluster pelanggan teridentifikasi
+
 ![Elbow Method](https://github.com/user-attachments/assets/5a4647d2-a03b-44e8-8d25-a2bb4a18cf0e)
+
 ![Visual RFM](https://github.com/user-attachments/assets/9abc1847-cabf-4bc6-a6bb-06610fe036a6)
+
 ![Visual RFM 3D](https://github.com/user-attachments/assets/c456aaab-8463-416b-8d1a-31356a4c28a3)
+
 ![Cluster Stat RFM](https://github.com/user-attachments/assets/f395149a-52f0-4bc4-a72f-b5be7be8ac77)
+
 ![RFM Summary](https://github.com/user-attachments/assets/29e6d86b-5fb1-41dc-969f-f8680dc9f2cb)
 
 ### Segmentasi Pelanggan
